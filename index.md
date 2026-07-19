@@ -1,7 +1,7 @@
 # RefLinx Privacy Policy
 
 **Effective date:** 19 July 2026
-**Contact:** reflinx@gmail.com
+**Contact:** reflinx.support@gmail.com
 
 RefLinx is a local-first application: it runs no servers, requires no account,
 and its developer receives no data from you. This policy discloses how RefLinx
