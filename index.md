@@ -1,5 +1,11 @@
 # RefLinx Privacy Policy
 
+> Canonical source of the published policy at
+> **https://justinrhodes1.github.io/reflinx-site/** (repo
+> `justinrhodes1/reflinx-site`, file `index.md`, this banner omitted).
+> When this file changes, re-publish there — see TODO_DETAILS.md "Keeping it
+> in sync". Update before any data practice changes (e.g. a paid tier).
+
 **Effective date:** 19 July 2026
 **Contact:** reflinx.support@gmail.com
 
@@ -14,8 +20,7 @@ localStorage), on your device only:
 
 - **Your library** — papers, citation metadata, arguments, categories, edges,
   notes, and tags, plus local snapshots used by the undo feature.
-- **Settings** — display preferences and, if you use the AI feature, the
-  provider, model, and API key you enter.
+- **Settings** — your display and layout preferences.
 
 This data is used solely to provide the app's functionality. It remains on
 your device until you delete it: the in-app reset removes the library, and
@@ -26,18 +31,12 @@ yours to manage.
 
 ## What RefLinx shares, and with whom
 
-There is exactly one data flow that leaves your device. When you explicitly
-run AI extraction, RefLinx sends the text you selected, together with your API
-key, directly from your browser to the one provider you configured:
+**Nothing. RefLinx makes no network requests and transmits no data anywhere.**
+It has no servers, no analytics, no advertising, no tracking, and no telemetry
+of any kind, and its developer never receives, stores, or processes your data.
 
-- **Anthropic** — [Anthropic Privacy Policy](https://www.anthropic.com/legal/privacy)
-- **OpenAI** — [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy)
-
-That transmission happens only at your direction, under your own agreement
-with the provider, and does not pass through any infrastructure of ours. If
-you never use the AI feature, RefLinx makes no network requests with your
-data at all.
-
-No user data is shared with any other party. RefLinx has no analytics, no
-advertising, no tracking, and no telemetry of any kind, and its developer
-never receives, stores, or processes your data.
+The optional AI feature does not change this: RefLinx generates a prompt for
+you to copy into a separate AI tool of your own choosing (such as ChatGPT or
+Claude) and lets you paste that tool's reply back. RefLinx itself sends
+nothing — whatever you choose to paste into that other tool is governed by
+that tool's own privacy policy and your agreement with it, not by RefLinx.
