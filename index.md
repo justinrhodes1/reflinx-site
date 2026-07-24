@@ -1,11 +1,5 @@
 # RefLinx Privacy Policy
 
-> Canonical source of the published policy at
-> **https://justinrhodes1.github.io/reflinx-site/** (repo
-> `justinrhodes1/reflinx-site`, file `index.md`, this banner omitted).
-> When this file changes, re-publish there — see TODO_DETAILS.md "Keeping it
-> in sync". Update before any data practice changes (e.g. a paid tier).
-
 **Effective date:** 19 July 2026
 **Contact:** reflinx.support@gmail.com
 
